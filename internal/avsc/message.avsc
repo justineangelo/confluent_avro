@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "Message",
+  "namespace": "com.example",
+  "fields": [
+    { "name": "id", "type": "string" },
+    { "name": "content", "type": "string" },
+    { "name": "timestamp", "type": "long" }
+  ]
+}
