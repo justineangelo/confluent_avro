@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/confluentinc/confluent-kafka-go/v2/kafka"
 	"github.com/google/uuid"
 	"github.com/hamba/avro/v2"
 	"github.com/riferrei/srclient"
